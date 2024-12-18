@@ -19,7 +19,9 @@ solid tumor) indicando tumor e NT (normal tissue) indicando que não há tumor.
 The Cancer Genome Atlas Program (TCGA)
 O que é Mirco RNA? (https://www.bbc.com/portuguese/articles/cvgl5yqd33vo)
 
-# Linguagem: python
+# Linguagem: 
+
+Python
 
 # Bibliotecas:
 
