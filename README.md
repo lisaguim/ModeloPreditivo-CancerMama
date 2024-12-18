@@ -1,7 +1,7 @@
 # ModeloPreditivo-CancerMama
 Modelo Preditivo para predizer quando uma pessoa tem câncer dado o exame de sequenciamento do RNA com base no TCGA.
 
-# [Descrição dos dados] :
+# Descrição dos dados:
 
 Dados foram coletados do The Cancer Genome Atlas Program (TCGA), que é um programa internacional e de referência mundial de
 caracterização de mais de 33 tipos de câncer. Os dados são reais e foram devidamente anonimizados. Cada linha representa a
@@ -21,7 +21,7 @@ O que é Mirco RNA? (https://www.bbc.com/portuguese/articles/cvgl5yqd33vo)
 
 # Linguagem: 
 
-Python
+## Python
 
 # Bibliotecas:
 
