@@ -12,7 +12,7 @@ microRNA está expressado. Os valores de expressão variam entre [0,infinito]. V
 enquanto que o contrário indica uma alta expressão. Os dados também apresentam rótulos (veja atributo class) sendo TP(primary
 solid tumor) indicando tumor e NT (normal tissue) indicando que não há tumor.
 
-# Link do dataset: 
+# Fonte dataset: 
 
 (https://www.cancer.gov/ccg/research/genome-sequencing/tcga)
 
