@@ -1,5 +1,7 @@
 # ModeloPreditivo-CancerMama
-Modelo Preditivo para predizer quando uma pessoa tem câncer dado o exame de sequenciamento do RNA com base no TCGA.
+
+Esse projeto desenvolvido no jupyter notebook tem como objetivo criar um modelo preditivo para predizer quando uma pessoa tem câncer dado o exame de sequenciamento do RNA com base no TCGA e
+estudar as técnicas de redução de dimensionalidade dos dados (PCA), regressão logística e treinamento do modelo. 
 
 # Descrição dos dados:
 
@@ -30,7 +32,5 @@ Numpy
 Seaborn
 Matplotlib
 Sklearn
-
-# Ambiente: jupyter notebook
 
 
