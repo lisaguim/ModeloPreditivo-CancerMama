@@ -1,36 +1,26 @@
-# ModeloPreditivo-CancerMama
+<h1 align="center"> Predictive Model for Breast Cancer </h1>
 
-Esse projeto desenvolvido no jupyter notebook tem como objetivo criar um modelo preditivo para predizer quando uma pessoa tem câncer dado o exame de sequenciamento do RNA com base no TCGA e
-estudar as técnicas de redução de dimensionalidade dos dados (PCA), regressão logística e treinamento do modelo. 
+This project developed in the Jupyter notebook aims to create a predictive model to predict when a person has cancer given the RNA sequencing exam based on TCGA and to study the techniques of data dimensionality reduction (PCA), logistic regression and model training.
 
-# Descrição dos dados:
+<h2> Data Description </h2>
 
-Dados foram coletados do The Cancer Genome Atlas Program (TCGA), que é um programa internacional e de referência mundial de
-caracterização de mais de 33 tipos de câncer. Os dados são reais e foram devidamente anonimizados. Cada linha representa a
-amostra retirada de uma pessoa. AS colunas são os tipo de microRNA e cada entrada representa a instensidade com que aquele
-microRNA está expressado. Os valores de expressão variam entre [0,infinito]. Valores próximos a zero indicam pouca expressão
-enquanto que o contrário indica uma alta expressão. Os dados também apresentam rótulos (veja atributo class) sendo TP(primary
-solid tumor) indicando tumor e NT (normal tissue) indicando que não há tumor.
+Data were collected from The Cancer Genome Atlas Program (TCGA), which is an international and world-class program for characterizing more than 33 types of cancer. The data are real and have been properly anonymized. Each row represents a sample taken from a person. The columns are the types of microRNA and each entry represents the intensity with which that microRNA is expressed. Expression values ​​range from [0, infinity]. Values ​​close to zero indicate low expression, while the opposite indicates high expression. The data also have labels (see class attribute), with TP (primary solid tumor) indicating tumor and NT (normal tissue) indicating no tumor.
 
-# Fonte dataset: 
+<h2> Source dataset and Reference </h2>
 
-(https://www.cancer.gov/ccg/research/genome-sequencing/tcga)
+- The Cancer Genome Atlas Program (TCGA) - (https://www.cancer.gov/ccg/research/genome-sequencing/tcga)
+- What is micro RNA ? (https://www.bbc.com/news/articles/c79nrgp97x9o)
 
-# Links e Referências:
-
-The Cancer Genome Atlas Program (TCGA)
-O que é Mirco RNA? (https://www.bbc.com/portuguese/articles/cvgl5yqd33vo)
-
-# Linguagem: 
+<h2> Language Used </h2>
 
 Python
 
-# Bibliotecas:
+<h2> Libraries </h2>
 
-Pandas
-Numpy
-Seaborn
-Matplotlib
-Sklearn
+- Pandas
+- Numpy
+- Seaborn
+- Matplotlib
+- Sklearn
 
 
