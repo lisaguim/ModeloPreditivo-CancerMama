@@ -1,6 +1,6 @@
 <h1 align="center"> Predictive Model for Breast Cancer </h1>
 
-This project developed in the Jupyter notebook aims to create a predictive model to predict when a person has cancer given the RNA sequencing exam based on TCGA and to study the techniques of data dimensionality reduction (PCA), logistic regression and model training.
+This project developed in the Jupyter notebook aims to create a predictive model to predict when a person has cancer given the micro RNA sequencing exam based on TCGA and to study the techniques of data dimensionality reduction (PCA), logistic regression and model training.
 
 <h2> Data Description </h2>
 
